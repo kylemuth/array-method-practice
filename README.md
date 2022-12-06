@@ -23,3 +23,5 @@ Much like the semantic meaning of filter, the reduce method is used to.. reduce.
 ## Key Takeaway(s):
 
 - All of these methods can be chained onto one another. For example, this means that we could use the filter method to extract specific objects and then use the map method to extract specific information or alter values within an object. All of this information could be stored into one variable versus having to perform multiple functions in order to arrive at the same result.
+
+- .join() can be used to take data out of an array and can then be separated by spaces or commas.
